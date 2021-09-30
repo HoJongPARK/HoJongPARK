@@ -28,4 +28,4 @@
 4. Latest Library
 </code></pre>  
   #### 📞 Contact 📞
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:pjh00098@gmail.com)
+<a href="mailto:pjh00098@gmail.com" target="_blank"><img src="https://img.shields.io/badge/pjh00098@gmail.com-ffffff?style=for-the-badge&logo=Gmail&logoColor=EA4335"/></a>
