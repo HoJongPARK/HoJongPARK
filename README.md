@@ -11,21 +11,18 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoJongPARK&show_icons=true&theme=vue)
   
-  
-#### Main Stack
-<image src="https://user-images.githubusercontent.com/57793298/135412920-c7495e48-5802-4fca-a26e-da1e50f15931.png" width="50" height = "50"><image src="https://user-images.githubusercontent.com/57793298/135413690-de600da2-32a7-4e5d-a4cb-33cbff1fb3f2.png" width="50" height = "50">  
-  
-#### Sub Stack
-<image src="https://user-images.githubusercontent.com/57793298/135413964-18139b8d-646f-43e3-866d-eb42244a88df.png" width="50" height = "50"> <image src="https://user-images.githubusercontent.com/57793298/135414108-e645bb43-fa2d-478a-99a7-80351fd1313e.png" width="50" height = "50"> <image src="https://user-images.githubusercontent.com/57793298/135414313-e9e3bdcd-800d-45cf-a6e3-37fd0e2416a5.png" width="50" height = "50"> <image src="https://user-images.githubusercontent.com/57793298/135414881-42798eac-08f2-49c5-951d-56d9614f3399.png" width="50" height = "50">
-  
-#### Design Stack
-<image src="https://user-images.githubusercontent.com/57793298/135415486-20f53f19-7955-4e55-8805-5eb732750409.png" width="50" height = "50">  
-  
-#### Interesting
+##### Main Stack
+<img src="https://img.shields.io/badge/Android-3ddc84?style=square&logo=Android Studio&logoColor=ffffff"/><img src="https://img.shields.io/badge/Java-007396?style=square&logo=Java&logoColor=ffffff"/>
+##### Sub Stack
+<img src="https://img.shields.io/badge/Swift-fa7343?style=square&logo=Swift&logoColor=ffffff"/><img src="https://img.shields.io/badge/Xcode-147efb?style=square&logo=Xcode&logoColor=ffffff"/><img src="https://img.shields.io/badge/C-a8b9cc?style=square&logo=C&logoColor=ffffff"/><img src="https://img.shields.io/badge/C++-00599c?style=square&logo=C++&logoColor=ffffff"/><img src="https://img.shields.io/badge/Kotlin-7f52ff?style=square&logo=Kotlin&logoColor=ffffff"/>
+##### Design Stack
+<img src="https://img.shields.io/badge/Adobe XD-ff61f6?style=square&logo=Adobe XD&logoColor=ffffff"/>
+
+##### Interesting
 <pre><code>1. Algorithm
 2. Design Pattern
 3. Clean Code
 4. Latest Library
 </code></pre>  
-  #### 📞 Contact 📞
-<a href="mailto:pjh00098@gmail.com" target="_blank"><img src="https://img.shields.io/badge/pjh00098@gmail.com-ffffff?style=for-the-badge&logo=Gmail&logoColor=EA4335"/></a>
+##### 📞 Contact 📞
+<a href="mailto:pjh00098@gmail.com" target="_blank"><img src="https://img.shields.io/badge/pjh00098@gmail.com-ffffff?style=square&logo=Gmail&logoColor=EA4335"/></a>
