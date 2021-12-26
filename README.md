@@ -15,8 +15,8 @@
     
 ### Personal Skill
     
-#### Main Stack <img src="https://img.shields.io/badge/Android-3ddc84?style=square&logo=Android Studio&logoColor=ffffff"/><img src="https://img.shields.io/badge/Java-007396?style=square&logo=Java&logoColor=ffffff"/>
-#### Sub Stack <img src="https://img.shields.io/badge/Swift-fa7343?style=square&logo=Swift&logoColor=ffffff"/><img src="https://img.shields.io/badge/Xcode-147efb?style=square&logo=Xcode&logoColor=ffffff"/><img src="https://img.shields.io/badge/C-a8b9cc?style=square&logo=C&logoColor=ffffff"/><img src="https://img.shields.io/badge/C++-00599c?style=square&logo=C++&logoColor=ffffff"/><img src="https://img.shields.io/badge/Kotlin-7f52ff?style=square&logo=Kotlin&logoColor=ffffff"/>
+#### Main Stack <img src="https://img.shields.io/badge/Android-3ddc84?style=square&logo=Android Studio&logoColor=ffffff"/><img src="https://img.shields.io/badge/Java-007396?style=square&logo=Java&logoColor=ffffff"/><img src="https://img.shields.io/badge/Kotlin-7f52ff?style=square&logo=Kotlin&logoColor=ffffff"/>
+#### Sub Stack <img src="https://img.shields.io/badge/Swift-fa7343?style=square&logo=Swift&logoColor=ffffff"/><img src="https://img.shields.io/badge/Xcode-147efb?style=square&logo=Xcode&logoColor=ffffff"/><img src="https://img.shields.io/badge/C-a8b9cc?style=square&logo=C&logoColor=ffffff"/><img src="https://img.shields.io/badge/C++-00599c?style=square&logo=C++&logoColor=ffffff"/>
 #### Design Stack <img src="https://img.shields.io/badge/Adobe XD-ff61f6?style=square&logo=Adobe XD&logoColor=ffffff"/>
     
 </div>  
