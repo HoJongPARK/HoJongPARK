@@ -1,9 +1,4 @@
-## **Park Jong Ho - Android Software Developer**
-
-### 🧑🏻‍💻 클린 코드를 짜는 개발자가 되고프다. 🧑🏻‍💻
-완성도 높은 어플리케이션을 만들려고 노력합니다. 1년동안 앱 개발자로 근무했으며, 근무 중 협업 환경 구축 및 버전 관리, 클린 코드 작성, 디자인 패턴과 Android 및 IOS 에 대한 많은 지식을 습득했습니다. 어플리케이션 UI 및 UX, 사용자 편의성에 관심이 많으며 최신 라이브러리에 관심이 많습니다. 항상 더 나은 방법을 갈구하고 최적화에 신경 쓰는, 고급 개발자가 되고 싶습니다.  
-
-<br/>
+## **Park Jong Ho - Mobile Software Developer**
 
 <table><tr><td valign="top" width="50%">
   
